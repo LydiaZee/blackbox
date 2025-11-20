@@ -45,3 +45,19 @@ they can approve supplier and customer accounts, remove suppliers and customers
  ## chat system
  suppliers and customers can chat on the application.
 customers can ask questions, leave cleaning instructions and send locations
+
+## use cases
+#ban supplier
+supplier is banned from accessing customer details
+no work profile
+no location
+no rating with a years usage
+customer complaints that are more than 5
+duplicate accounts
+
+#ban customer
+no profile picture
+bad reviews over a year
+
+
+
